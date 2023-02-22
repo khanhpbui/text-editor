@@ -1,9 +1,10 @@
 # text-editor
 
-![Text Editor](./client/src/images/screenshot.png "Text Editor")
+
 ## Description
 This is a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
-
+<br><br>
+<img src="./client/dist/assets/pic.png" alt="screeenshot" width="550px" height="400px">
 
 ## User Story
 ```
