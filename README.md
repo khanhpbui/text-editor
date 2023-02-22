@@ -6,6 +6,15 @@ This is a text editor that runs in the browser. The app will be a single-page ap
 <br><br>
 <img src="./client/dist/assets/pic.png" alt="screeenshot" width="550px" height="400px">
 
+## Table of Contents
+    
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [License](#license)
+- [Questions](#questions)
+
+
 ## User Story
 ```
 AS A developer
