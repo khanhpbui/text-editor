@@ -2,9 +2,9 @@
 
 
 ## Description
-This is a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+This is a text editor that runs in the browser. The app will be a single-page application that meets the Progressive Web Apps (PWA) criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 <br><br>
-<img src="./client/dist/assets/pic.png" alt="screeenshot" width="550px" height="400px">
+<img src="./client/src/images/screenshot.png" alt="screeenshot" width="550px" height="400px">
 <br><br>
 Click [HERE](https://text-editor12.herokuapp.com/) to view the deployed application on Heroku.
 
